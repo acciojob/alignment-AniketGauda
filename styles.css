@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+table{
+                border: 1px solid black;
+                word-spacing: 1px;
+                padding: 1px;
+                width: 100%;
+            }
+            .center{
+                text-align: center;
+            }
+            .right{
+                text-align: end;
+            }
+            #t-image{
+                text-align: center;
+            }
+
+            #table-2{
+                height: 100px;
+            }
