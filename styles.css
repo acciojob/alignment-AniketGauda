@@ -18,3 +18,7 @@ table{
             #table-2{
                 height: 100px;
             }
+			td{
+                padding: px;
+                border: 1px solid black;
+            }
